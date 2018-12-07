@@ -5,7 +5,8 @@
 
 #### 软件架构
 软件架构说明
-
+后端：spingboot+mybati+mysql+redis
+前端：jQuery+Bootstrap+thymeleaf
 
 #### 安装教程
 
